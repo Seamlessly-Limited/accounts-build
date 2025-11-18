@@ -1,0 +1,1 @@
+import{B as e,D as t,S as n,U as r,_t as i,yt as a}from"./index-BbbjTprl.js";import{t as o}from"./utils-DJKW7nPS.js";var s=t({__name:`Card`,props:{class:{}},setup(t){let s=t;return(t,c)=>(e(),n(`div`,{"data-slot":`card`,class:a(i(o)(`bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm`,s.class))},[r(t.$slots,`default`)],2))}});export{s as t};
