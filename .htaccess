@@ -1,33 +1,4 @@
 
-# Security headers
-<IfModule mod_headers.c>
-    Header always unset Content-Security-Policy
-
-    # More permissive CSP for development/testing
-    Header always set Content-Security-Policy "\
-        default-src * 'unsafe-inline' 'unsafe-eval' data: blob:;\
-        script-src * 'unsafe-inline' 'unsafe-eval' data: blob:;\
-        connect-src * 'unsafe-inline';\
-        img-src * data: blob: 'unsafe-inline';\
-        frame-src *;\
-        style-src * 'unsafe-inline';\
-        font-src * data:;\
-        "
-    # Enable CORS for Google domains
-        
-    Header always set Access-Control-Allow-Origin "*"
-    Header always set Access-Control-Allow-Methods "GET, POST, OPTIONS"
-    Header always set Access-Control-Allow-Headers "Origin, Content-Type, Accept, Authorization"
-</IfModule>
-
-# Cache control (optional)
-<IfModule mod_expires.c>
-  ExpiresActive On
-  ExpiresByType text/html "access plus 0 seconds"
-  ExpiresByType text/css "access plus 1 week"
-  ExpiresByType application/javascript "access plus 1 week"
-  ExpiresByType image/* "access plus 1 month"
-</IfModule>
 
 <FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp|php|PHP))$">
     ## Apache 2.2
@@ -48,12 +19,9 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
 	
-
-    # Handle preflight requests
-    RewriteCond %{REQUEST_METHOD} OPTIONS
-    RewriteRule ^(.*)$ $1 [R=200,L]
 	RewriteCond %{HTTPS} !=on
 	RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+	#Header always set Content-Security-Policy "upgrade-insecure-requests;"
 
     # Send would-be 404 requests to Craft
     RewriteCond %{REQUEST_FILENAME} !-f
