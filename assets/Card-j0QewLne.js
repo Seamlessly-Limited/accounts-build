@@ -1,0 +1,1 @@
+import{D as e,S as t,V as n,W as r,bt as i,vt as a}from"./index-vegYmq3T.js";import{t as o}from"./utils-CaRsx_gg.js";var s=e({__name:`Card`,props:{class:{}},setup(e){let s=e;return(e,c)=>(n(),t(`div`,{"data-slot":`card`,class:i(a(o)(`bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm`,s.class))},[r(e.$slots,`default`)],2))}});export{s as t};

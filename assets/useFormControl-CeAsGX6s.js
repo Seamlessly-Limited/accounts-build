@@ -1,1 +1,0 @@
-import{v as e}from"./index-BbbjTprl.js";import{i as t,v as n}from"./useForwardExpose-Bmr5sraL.js";function r(r){return e(()=>n(r)?!!t(r)?.closest(`form`):!0)}export{r as t};
