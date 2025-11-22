@@ -1,1 +1,0 @@
-import{D as e,W as t,ft as n}from"./index-vegYmq3T.js";import{l as r}from"./VisuallyHidden-DQsaJJLU.js";var[i,a]=r(`PopperRoot`),o=e({inheritAttrs:!1,__name:`PopperRoot`,setup(e){let r=n();return a({anchor:r,onAnchorChange:e=>r.value=e}),(e,n)=>t(e.$slots,`default`)}});export{i as n,o as t};
