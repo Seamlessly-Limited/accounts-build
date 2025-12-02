@@ -1,0 +1,1 @@
+import{L as e,X as t,xt as n}from"./index-DUYI2_g5.js";function r(r){return n(()=>t(r)?!!e(r)?.closest(`form`):!0)}export{r as t};
