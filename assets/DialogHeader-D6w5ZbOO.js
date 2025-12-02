@@ -1,0 +1,1 @@
+import{At as e,Tt as t,Vt as n,Wt as r,_ as i,gn as a,hn as o}from"./index-6eTYohyW.js";var s=e({__name:`DialogHeader`,props:{class:{}},setup(e){let s=e;return(e,c)=>(n(),t(`div`,{class:a(o(i)(`flex flex-col gap-y-1.5 text-center sm:text-left`,s.class))},[r(e.$slots,`default`)],2))}});export{s as t};

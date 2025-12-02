@@ -1,0 +1,1 @@
+import{At as e,Wt as t,ln as n,rt as r}from"./index-6eTYohyW.js";var[i,a]=r(`PopperRoot`),o=e({inheritAttrs:!1,__name:`PopperRoot`,setup(e){let r=n();return a({anchor:r,onAnchorChange:e=>r.value=e}),(e,n)=>t(e.$slots,`default`)}});export{i as n,o as t};
