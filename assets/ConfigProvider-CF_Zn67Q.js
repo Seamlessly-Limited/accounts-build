@@ -1,1 +1,0 @@
-import{rt as e}from"./index-DUYI2_g5.js";var[t,n]=e(`ConfigProvider`);export{t};

@@ -1,1 +1,0 @@
-import{At as e,Tt as t,Vt as n,Wt as r,_ as i,gn as a,hn as o}from"./index-DUYI2_g5.js";var s=e({__name:`Card`,props:{class:{}},setup(e){let s=e;return(e,c)=>(n(),t(`div`,{"data-slot":`card`,class:a(o(i)(`bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm`,s.class))},[r(e.$slots,`default`)],2))}});export{s as t};

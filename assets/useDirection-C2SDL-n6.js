@@ -1,0 +1,1 @@
+import{t as e}from"./ConfigProvider-CSiMpAid.js";import{on as t,yt as n}from"./index-BQW5AyZv.js";function r(r){let i=e({dir:t(`ltr`)});return n(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};
