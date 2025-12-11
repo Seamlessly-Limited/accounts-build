@@ -1,0 +1,1 @@
+import{rt as e}from"./index-DRwhOcbi.js";var[t,n]=e(`ConfigProvider`);export{t};

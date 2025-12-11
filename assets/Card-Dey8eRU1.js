@@ -1,0 +1,1 @@
+import{At as e,Et as t,Vt as n,Wt as r,g as i,gn as a,hn as o}from"./index-DRwhOcbi.js";var s=e({__name:`Card`,props:{class:{}},setup(e){let s=e;return(e,c)=>(n(),t(`div`,{class:a(o(i)(`rounded-xl border bg-card text-card-foreground shadow`,s.class))},[r(e.$slots,`default`)],2))}});export{s as t};
