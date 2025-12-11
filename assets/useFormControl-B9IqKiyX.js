@@ -1,1 +1,0 @@
-import{F as e,J as t,yt as n}from"./index-BQW5AyZv.js";function r(r){return n(()=>t(r)?!!e(r)?.closest(`form`):!0)}export{r as t};
