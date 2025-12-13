@@ -1,1 +1,0 @@
-import{At as e,Et as t,Vt as n,Wt as r,g as i,gn as a,hn as o}from"./index-DRwhOcbi.js";var s=e({__name:`DialogFooter`,props:{class:{}},setup(e){let s=e;return(e,c)=>(n(),t(`div`,{"data-slot":`dialog-footer`,class:a(o(i)(`flex flex-col-reverse gap-2 sm:flex-row sm:justify-end`,s.class))},[r(e.$slots,`default`)],2))}});export{s as t};

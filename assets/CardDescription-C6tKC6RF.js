@@ -1,0 +1,1 @@
+import{At as e,Et as t,Vt as n,Wt as r,gn as i,h as a,hn as o}from"./index-Du2czi9R.js";var s=e({__name:`CardDescription`,props:{class:{}},setup(e){let s=e;return(e,c)=>(n(),t(`p`,{"data-slot":`card-description`,class:i(o(a)(`text-muted-foreground text-sm`,s.class))},[r(e.$slots,`default`)],2))}});export{s as t};
