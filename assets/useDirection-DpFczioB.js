@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-Cwcb-esP.js";import{St as t,ln as n}from"./index-Du2czi9R.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

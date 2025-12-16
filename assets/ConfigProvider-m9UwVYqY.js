@@ -1,0 +1,1 @@
+import{rt as e}from"./index-BNQA11Dp.js";var[t,n]=e(`ConfigProvider`);export{t};
