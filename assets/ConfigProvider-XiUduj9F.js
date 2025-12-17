@@ -1,0 +1,1 @@
+import{rt as e}from"./index-NPUXaZ2c.js";var[t,n]=e(`ConfigProvider`);export{t};

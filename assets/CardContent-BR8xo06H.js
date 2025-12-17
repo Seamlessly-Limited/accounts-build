@@ -1,1 +1,0 @@
-import{Nt as e,Wt as t,g as n,kt as r,qt as i,vn as a,yn as o}from"./index-BNQA11Dp.js";var s=e({__name:`CardContent`,props:{class:{}},setup(e){let s=e;return(e,c)=>(t(),r(`div`,{"data-slot":`card-content`,class:o(a(n)(`px-6`,s.class))},[i(e.$slots,`default`)],2))}});export{s as t};

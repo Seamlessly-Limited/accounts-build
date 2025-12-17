@@ -1,1 +1,0 @@
-import{Nt as e,Wt as t,g as n,kt as r,qt as i,vn as a,yn as o}from"./index-BNQA11Dp.js";var s=e({__name:`DialogFooter`,props:{class:{}},setup(e){let s=e;return(e,c)=>(t(),r(`div`,{"data-slot":`dialog-footer`,class:o(a(n)(`flex flex-col-reverse gap-2 sm:flex-row sm:justify-end`,s.class))},[i(e.$slots,`default`)],2))}});export{s as t};
