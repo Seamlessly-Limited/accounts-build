@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-XiUduj9F.js";import{Qt as t,mt as n}from"./index-NPUXaZ2c.js";var r=0;function i(i,a=`reka`){if(i)return i;if(`useId`in n)return`${a}-${t?.()}`;let o=e({useId:void 0});return o.useId?`${a}-${o.useId()}`:`${a}-${++r}`}export{i as t};
