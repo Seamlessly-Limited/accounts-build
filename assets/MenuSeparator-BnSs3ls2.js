@@ -1,1 +1,0 @@
-import{Dr as e,Hi as t,Ii as n,Xi as r,ki as i,qi as a,sa as o,xa as s}from"./index-DYsAJfvN.js";var c=n({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(n){let c=n;return(n,l)=>(a(),i(s(e),t(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:o(()=>[r(n.$slots,`default`)]),_:3},16))}});export{c as t};

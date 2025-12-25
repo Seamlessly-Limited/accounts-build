@@ -1,1 +1,0 @@
-import{ni as e}from"./index-DYsAJfvN.js";var[t,n]=e(`ConfigProvider`);export{t};
