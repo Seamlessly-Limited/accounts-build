@@ -1,1 +1,0 @@
-import{Bi as e,Ki as t,Ni as n,Ta as r,Zi as i,da as a,ea as o,jr as s}from"./index-CHNvwQRL.js";var c=e({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(e){let c=e;return(e,l)=>(i(),n(r(s),t(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:a(()=>[o(e.$slots,`default`)]),_:3},16))}});export{c as t};

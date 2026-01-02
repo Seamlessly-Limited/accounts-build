@@ -1,1 +1,0 @@
-import{Bi as e,Ea as t,Fi as n,Ta as r,Zi as i,ea as a,yr as o}from"./index-CHNvwQRL.js";var s=e({__name:`CardDescription`,props:{class:{}},setup(e){let s=e;return(e,c)=>(i(),n(`p`,{"data-slot":`card-description`,class:t(r(o)(`text-muted-foreground text-sm`,s.class))},[a(e.$slots,`default`)],2))}});export{s as t};
