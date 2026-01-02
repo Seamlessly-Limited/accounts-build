@@ -1,0 +1,1 @@
+import{oi as e}from"./index-CHNvwQRL.js";var[t,n]=e(`ConfigProvider`);export{t};

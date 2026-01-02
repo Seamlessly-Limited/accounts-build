@@ -1,0 +1,1 @@
+import{Bi as e,Ea as t,Fi as n,Ta as r,Zi as i,ea as a,yr as o}from"./index-CHNvwQRL.js";var s=e({__name:`DialogFooter`,props:{class:{}},setup(e){let s=e;return(e,c)=>(i(),n(`div`,{class:t(r(o)(`flex flex-col-reverse sm:flex-row sm:justify-end sm:gap-x-2`,s.class))},[a(e.$slots,`default`)],2))}});export{s as t};
