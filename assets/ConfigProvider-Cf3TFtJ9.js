@@ -1,0 +1,1 @@
+import{hi as e}from"./index-HKVTK5TI.js";var[t,n]=e(`ConfigProvider`);export{t};

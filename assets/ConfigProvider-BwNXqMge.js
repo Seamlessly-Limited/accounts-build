@@ -1,1 +1,0 @@
-import{hi as e}from"./index-CTHZVx0Q.js";var[t,n]=e(`ConfigProvider`);export{t};
