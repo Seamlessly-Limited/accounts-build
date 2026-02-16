@@ -1,1 +1,0 @@
-import{Fa as e,Or as t,Pa as n,Wi as r,Yi as i,la as a,oa as o}from"./index-HKVTK5TI.js";var s=i({__name:`DialogFooter`,props:{class:{}},setup(i){let s=i;return(i,c)=>(o(),r(`div`,{"data-slot":`dialog-footer`,class:e(n(t)(`flex flex-col-reverse gap-2 sm:flex-row sm:justify-end`,s.class))},[a(i.$slots,`default`)],2))}});export{s as t};
