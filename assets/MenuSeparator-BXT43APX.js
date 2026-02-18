@@ -1,1 +1,0 @@
-import{Br as e,Hi as t,Pa as n,Yi as r,ba as i,la as a,oa as o,ta as s}from"./index-BHNnQTTo.js";var c=r({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(r){let c=r;return(r,l)=>(o(),t(n(e),s(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:i(()=>[a(r.$slots,`default`)]),_:3},16))}});export{c as t};

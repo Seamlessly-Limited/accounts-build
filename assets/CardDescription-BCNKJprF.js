@@ -1,1 +1,0 @@
-import{Fa as e,Or as t,Pa as n,Wi as r,Yi as i,la as a,oa as o}from"./index-BHNnQTTo.js";var s=i({__name:`CardDescription`,props:{class:{}},setup(i){let s=i;return(i,c)=>(o(),r(`p`,{class:e(n(t)(`text-sm text-muted-foreground`,s.class))},[a(i.$slots,`default`)],2))}});export{s as t};
