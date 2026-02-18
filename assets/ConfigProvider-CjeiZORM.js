@@ -1,0 +1,1 @@
+import{hi as e}from"./index-Caanq2Pw.js";var[t,n]=e(`ConfigProvider`);export{t};

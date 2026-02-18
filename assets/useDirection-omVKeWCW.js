@@ -1,0 +1,1 @@
+import{t as e}from"./ConfigProvider-CjeiZORM.js";import{Bi as t,Oa as n}from"./index-Caanq2Pw.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

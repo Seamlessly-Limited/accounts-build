@@ -1,0 +1,1 @@
+import{Fa as e,Or as t,Pa as n,Wi as r,Yi as i,la as a,oa as o}from"./index-Caanq2Pw.js";var s=i({__name:`Card`,props:{class:{}},setup(i){let s=i;return(i,c)=>(o(),r(`div`,{"data-slot":`card`,class:e(n(t)(`bg-card text-card-foreground flex flex-col gap-6 rounded-xl border py-6 shadow-sm`,s.class))},[a(i.$slots,`default`)],2))}});export{s as t};
