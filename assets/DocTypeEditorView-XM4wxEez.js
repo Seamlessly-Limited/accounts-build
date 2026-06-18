@@ -1,0 +1,1 @@
+import{$i as e,va as t}from"./index-DpwfcbJO.js";var n={__name:`DocTypeEditorView`,setup(n){return(n,r)=>(t(),e(`div`,null,`DocType Editor View - To be implemented`))}};export{n as default};

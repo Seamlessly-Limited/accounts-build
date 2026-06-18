@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-BF32JjF4.js";import{Ga as t,Xi as n}from"./index-WHUzYK_t.js";function r(r){let i=e({dir:t(`ltr`)});return n(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

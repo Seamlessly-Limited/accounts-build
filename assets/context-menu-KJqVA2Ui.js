@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/ContextMenuView-D-8MfeAi.js","assets/index-DpwfcbJO.js","assets/index-CtNNEn8e.css"])))=>i.map(i=>d[i]);
+import{r as e}from"./index-DpwfcbJO.js";import{i as t}from"./ModuleRegistry-Bl9lBf2l.js";t({key:`context-menu`,name:`Context Menu`,description:`Global context menu for document actions.`,icon:`Menu`,version:`1.0.0`,installable:!1,doctypes:[{name:`Context Menu`,module:`Context Menu`,views:{list:()=>e(()=>import(`./ContextMenuView-D-8MfeAi.js`),__vite__mapDeps([0,1,2]))}}],apps:[]});

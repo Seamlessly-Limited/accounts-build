@@ -1,0 +1,1 @@
+import{$i as e,Pr as t,Xa as n,Za as r,aa as i,va as a,xa as o}from"./index-DpwfcbJO.js";var s=i({__name:`CardContent`,props:{class:{}},setup(i){let s=i;return(i,c)=>(a(),e(`div`,{class:r(n(t)(`p-6 pt-0`,s.class))},[o(i.$slots,`default`)],2))}});export{s as t};

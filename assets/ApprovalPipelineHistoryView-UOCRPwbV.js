@@ -1,0 +1,1 @@
+import{$i as e,Xi as t,i as n,va as r}from"./index-DpwfcbJO.js";var i={},a={class:`p-6`};function o(n,i){return r(),e(`div`,a,[...i[0]||=[t(`h1`,{class:`text-2xl font-semibold text-gray-900`},`Pipeline History`,-1),t(`p`,{class:`mt-2 text-sm text-gray-500`},`Past approval pipeline runs for this workflow.`,-1)]])}var s=n(i,[[`render`,o]]);export{s as default};
