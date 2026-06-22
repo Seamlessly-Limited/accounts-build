@@ -1,1 +1,0 @@
-import{Kr as e,Na as t,Xa as n,Zi as r,aa as i,fa as a,va as o,xa as s}from"./index-DpwfcbJO.js";var c=i({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(i){let c=i;return(i,l)=>(o(),r(n(e),a(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:t(()=>[s(i.$slots,`default`)]),_:3},16))}});export{c as t};
