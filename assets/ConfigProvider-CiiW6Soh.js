@@ -1,0 +1,1 @@
+import{rn as e}from"./index-CeDI-Df9.js";var[t,n]=e(`ConfigProvider`);export{t};

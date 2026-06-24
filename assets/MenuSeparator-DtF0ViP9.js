@@ -1,0 +1,1 @@
+import{Ot as e,Qn as t,Rn as n,Wn as r,Yn as i,jn as a,lr as o,wr as s}from"./index-CeDI-Df9.js";var c=n({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(n){let c=n;return(n,l)=>(i(),a(s(e),r(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:o(()=>[t(n.$slots,`default`)]),_:3},16))}});export{c as t};
