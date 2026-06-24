@@ -1,0 +1,1 @@
+import{rn as e}from"./index-8T4dtgOx.js";var[t,n]=e(`ConfigProvider`);export{t};
