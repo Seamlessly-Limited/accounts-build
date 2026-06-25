@@ -1,0 +1,1 @@
+import{t as e}from"./ConfigProvider-DRSIMTj2.js";import{kn as t,vr as n}from"./index-BGI9ZSCv.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};
