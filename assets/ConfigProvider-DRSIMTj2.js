@@ -1,1 +1,0 @@
-import{rn as e}from"./index-BGI9ZSCv.js";var[t,n]=e(`ConfigProvider`);export{t};

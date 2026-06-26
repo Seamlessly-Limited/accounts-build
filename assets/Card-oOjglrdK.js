@@ -1,1 +1,0 @@
-import{Nn as e,Qn as t,Rn as n,Tr as r,Yn as i,gt as a,wr as o}from"./index-BGI9ZSCv.js";var s=n({__name:`Card`,props:{class:{}},setup(n){let s=n;return(n,c)=>(i(),e(`div`,{"data-slot":`card`,class:r(o(a)(`bg-card text-card-foreground flex flex-col gap-6 rounded-sm border py-6 shadow-sm`,s.class))},[t(n.$slots,`default`)],2))}});export{s as t};
