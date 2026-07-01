@@ -1,0 +1,1 @@
+import{rn as e}from"./index-CapsHWz6.js";var[t,n]=e(`ConfigProvider`);export{t};
