@@ -1,0 +1,1 @@
+import{Sr as e,b as t,v as n,vn as r}from"./index-CQc9B5UV.js";t(),r();const i=n(`contextMenu`,()=>{let t=e(!1),n=e(0),r=e(0),i=e([]),a=e(null);function o(e,o,s,c={}){n.value=e,r.value=o,i.value=s,a.value=c,t.value=!0}function s(){t.value=!1,i.value=[],a.value=null}return{isOpen:t,x:n,y:r,items:i,context:a,show:o,hide:s}});export{i as t};

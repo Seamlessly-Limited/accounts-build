@@ -1,0 +1,1 @@
+import{sn as e,vn as t}from"./index-CQc9B5UV.js";t();var[n,r]=e(`ConfigProvider`);export{n as t};
