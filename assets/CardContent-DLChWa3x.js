@@ -1,0 +1,1 @@
+import{Br as e,Et as t,Ri as n,Tt as r,ci as i,ri as a,vi as o,xi as s,zi as c}from"./index-C_d_GI3L.js";e(),t();var l=i({__name:`CardContent`,props:{class:{}},setup(e){let t=e;return(e,i)=>(o(),a(`div`,{"data-slot":`card-content`,class:c(n(r)(`px-6`,t.class))},[s(e.$slots,`default`)],2))}});export{l as t};

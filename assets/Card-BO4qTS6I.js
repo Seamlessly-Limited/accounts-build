@@ -1,0 +1,1 @@
+import{Br as e,Et as t,Ri as n,Tt as r,ci as i,ri as a,vi as o,xi as s,zi as c}from"./index-C_d_GI3L.js";e(),t();var l=i({__name:`Card`,props:{class:{}},setup(e){let t=e;return(e,i)=>(o(),a(`div`,{"data-slot":`card`,class:c(n(r)(`bg-card text-card-foreground flex flex-col gap-6 rounded-sm border py-6 shadow-sm`,t.class))},[s(e.$slots,`default`)],2))}});export{l as t};
