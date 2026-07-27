@@ -1,1 +1,0 @@
-import{Br as e,Pi as t,S as n,Wi as r,b as i}from"./index-C_d_GI3L.js";var a,o=r((()=>{n(),e(),a=i(`contextMenu`,()=>{let e=t(!1),n=t(0),r=t(0),i=t([]),a=t(null);function o(t,o,s,c={}){n.value=t,r.value=o,i.value=s,a.value=c,e.value=!0}function s(){e.value=!1,i.value=[],a.value=null}return{isOpen:e,x:n,y:r,items:i,context:a,show:o,hide:s}})}));export{a as n,o as t};

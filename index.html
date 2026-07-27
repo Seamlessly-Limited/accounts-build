@@ -2,43 +2,9 @@
 <html lang="en">
 
 <head>
-  <!-- Google Tag Manager -->
-  <script>(function (w, d, s, l, i) {
-      w[l] = w[l] || []; w[l].push({
-        'gtm.start':
-          new Date().getTime(), event: 'gtm.js'
-      }); var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
-          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
-    })(window, document, 'script', 'dataLayer', 'GTM-PQ5484PW');</script>
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6VXXSJBBVE"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'G-6VXXSJBBVE');
-  </script>
-
-  <!-- End Google Tag Manager -->
-
   <meta name="google-signin-client_id"
     content="731420362499-tmbv8nhf3md9u7h06915l351v3htp4mv.apps.googleusercontent.com">
-  <script src="https://accounts.google.com/gsi/client" async defer></script>
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-30BHH16E8T"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-
-    gtag('config', 'G-30BHH16E8T');
-  </script>
-
+  <script async src="https://accounts.google.com/gsi/client"></script>
 
   <!-- Open Graph Meta Tags (for Facebook, LinkedIn) -->
   <meta property="og:title" content="Flow Seamlessly - Scale Your Business" />
@@ -76,24 +42,12 @@
     rel="stylesheet" />
   <audio id="errorNote" src="/audio/error.mp3" preload="auto"></audio>
   <audio id="successNote" src="/audio/success.mp3" preload="auto"></audio>
-  <script type="module" crossorigin src="/assets/index-C_d_GI3L.js"></script>
+  <script type="module" crossorigin src="/assets/index-CAAW8bzF.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-Dhf3qaFW.css">
 </head>
 
-<body onload="console.log('[HTML] body onload')" class=" bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-primary/80 to-primary from-5%]">
+<body class=" bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-primary/80 to-primary from-5%]">
   <div id="app"></div>
-  <script>
-    // Early instrumentation: catch tab opens from any source
-    if (typeof window !== 'undefined') {
-      window.__openLog = window.__openLog || [];
-      const originalOpen = window.open.bind(window);
-      window.open = function(...args) {
-        window.__openLog.push({args, time: Date.now(), stack: new Error().stack});
-        console.warn('[Early] window.open called', args, new Error().stack);
-        return originalOpen(...args);
-      };
-    }
-  </script>
 </body>
 
 </html>

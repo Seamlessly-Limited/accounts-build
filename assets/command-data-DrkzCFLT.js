@@ -1,1 +1,0 @@
-import{D as e,M as t,yt as n}from"./index-C_d_GI3L.js";e();const r=[{heading:`Tools`,items:[{value:`calculator`,label:`Calculator`,icon:n,disabled:!1}]},{heading:`Settings`,items:[{value:`settings`,label:`Settings`,icon:t,shortcut:``,disabled:!1}]}];export{r as t};
