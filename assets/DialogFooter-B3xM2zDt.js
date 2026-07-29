@@ -1,1 +1,0 @@
-import{Gn as e,Jn as t,Pn as n,br as r,kn as i,pt as a,xr as o}from"./index-CAAW8bzF.js";var s=n({__name:`DialogFooter`,props:{class:{}},setup(n){let s=n;return(n,c)=>(e(),i(`div`,{class:o(r(a)(`flex flex-col-reverse sm:flex-row sm:justify-end sm:gap-x-2`,s.class))},[t(n.$slots,`default`)],2))}});export{s as t};

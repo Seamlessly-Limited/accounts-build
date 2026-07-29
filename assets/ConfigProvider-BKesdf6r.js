@@ -1,1 +1,0 @@
-import{en as e}from"./index-CAAW8bzF.js";var[t,n]=e(`ConfigProvider`);export{t};

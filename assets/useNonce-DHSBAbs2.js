@@ -1,0 +1,1 @@
+import{t as e}from"./ConfigProvider-BMJGvC5I.js";import{Tn as t,mr as n}from"./index-Cy5Kfqdk.js";function r(e,t=-1/0,n=1/0){return Math.min(n,Math.max(t,e))}function i(r){let i=e({nonce:n()});return t(()=>r?.value||i.nonce?.value)}export{r as n,i as t};
