@@ -1,1 +1,0 @@
-import{Nt as e,w as t}from"./index-BnEbBgqj.js";const n=[{heading:`Tools`,items:[{value:`calculator`,label:`Calculator`,icon:e,disabled:!1}]},{heading:`Settings`,items:[{value:`settings`,label:`Settings`,icon:t,shortcut:``,disabled:!1}]}];export{n as t};

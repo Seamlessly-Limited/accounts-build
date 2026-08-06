@@ -1,0 +1,1 @@
+import{c as e}from"./index-B_5oogMc.js";function t(e,t,n){return`/topic/o/${e}/${t}/${n}`}function n(e,t){return`/user/queue/${e}/${t}`}function r(){return e()}export{t as n,n as r,r as t};
