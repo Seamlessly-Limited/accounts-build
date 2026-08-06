@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-D-iChoy3.js";import{Ln as t,wr as n}from"./index-WHXNsIj9.js";var r=0;function i(i,a=`reka`){if(i)return i;if(`useId`in t)return`${a}-${n?.()}`;let o=e({useId:void 0});return o.useId?`${a}-${o.useId()}`:`${a}-${++r}`}export{i as t};

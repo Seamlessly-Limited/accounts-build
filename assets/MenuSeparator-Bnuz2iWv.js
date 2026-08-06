@@ -1,0 +1,1 @@
+import{$n as e,$t as t,Kr as n,_r as r,br as i,fr as a,jr as o,or as s}from"./index-DlvWwEYC.js";var c=s({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(s){let c=s;return(s,l)=>(r(),e(n(t),a(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:o(()=>[i(s.$slots,`default`)]),_:3},16))}});export{c as t};

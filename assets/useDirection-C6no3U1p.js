@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-D-iChoy3.js";import{Br as t,Zn as n}from"./index-WHXNsIj9.js";function r(r){let i=e({dir:t(`ltr`)});return n(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};
