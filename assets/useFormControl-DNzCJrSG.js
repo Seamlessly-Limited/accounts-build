@@ -1,0 +1,1 @@
+import{Zn as e,sn as t,xn as n}from"./index-WHXNsIj9.js";function r(r){return e(()=>n(r)?!!t(r)?.closest(`form`):!0)}export{r as t};
