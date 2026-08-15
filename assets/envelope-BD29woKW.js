@@ -1,1 +1,0 @@
-function e(e){return!e||typeof e!=`object`||!(`topic`in e)?e:{type:e.topic,...e.data??{}}}export{e as t};

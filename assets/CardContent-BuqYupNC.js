@@ -1,1 +1,0 @@
-import{Kr as e,Vt as t,_r as n,br as r,or as i,qr as a,tr as o}from"./index-B_5oogMc.js";var s=i({__name:`CardContent`,props:{class:{}},setup(i){let s=i;return(i,c)=>(n(),o(`div`,{"data-slot":`card-content`,class:a(e(t)(`px-6`,s.class))},[r(i.$slots,`default`)],2))}});export{s as t};

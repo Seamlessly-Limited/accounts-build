@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-tpg8wa5c.js";import{Br as t,Zn as n}from"./index-B_5oogMc.js";function r(r){let i=e({dir:t(`ltr`)});return n(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};

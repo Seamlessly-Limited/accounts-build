@@ -1,1 +1,0 @@
-import{On as e}from"./index-B_5oogMc.js";var[t,n]=e(`ConfigProvider`);export{t};

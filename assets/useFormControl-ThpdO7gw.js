@@ -1,0 +1,1 @@
+import{Jn as e,_n as t,rn as n}from"./index-BGLbADsG.js";function r(r){return e(()=>t(r)?!!n(r)?.closest(`form`):!0)}export{r as t};

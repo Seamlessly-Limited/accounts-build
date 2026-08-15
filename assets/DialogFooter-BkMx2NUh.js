@@ -1,1 +1,0 @@
-import{Kr as e,Vt as t,_r as n,br as r,or as i,qr as a,tr as o}from"./index-B_5oogMc.js";var s=i({__name:`DialogFooter`,props:{class:{}},setup(i){let s=i;return(i,c)=>(n(),o(`div`,{class:a(e(t)(`flex flex-col-reverse sm:flex-row sm:justify-end sm:gap-x-2`,s.class))},[r(i.$slots,`default`)],2))}});export{s as t};
