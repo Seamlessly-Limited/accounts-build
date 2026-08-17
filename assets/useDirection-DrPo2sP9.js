@@ -1,1 +1,0 @@
-import{t as e}from"./ConfigProvider-CKNcM98W.js";import{Jn as t,zr as n}from"./index-Dan-FiVS.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};
