@@ -1,0 +1,1 @@
+import{wn as e}from"./index-Dan-FiVS.js";var[t,n]=e(`ConfigProvider`);export{t};

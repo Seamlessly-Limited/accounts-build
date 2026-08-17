@@ -1,1 +1,0 @@
-import{wn as e}from"./index-BGLbADsG.js";var[t,n]=e(`ConfigProvider`);export{t};

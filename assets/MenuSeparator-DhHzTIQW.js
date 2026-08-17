@@ -1,0 +1,1 @@
+import{Ar as e,Gr as t,Xn as n,Yt as r,hr as i,rr as a,ur as o,vr as s}from"./index-Dan-FiVS.js";var c=a({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(a){let c=a;return(a,l)=>(i(),n(t(r),o(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:e(()=>[s(a.$slots,`default`)]),_:3},16))}});export{c as t};
