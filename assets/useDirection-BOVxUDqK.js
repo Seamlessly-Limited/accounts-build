@@ -1,0 +1,1 @@
+import{t as e}from"./ConfigProvider-D543j1LC.js";import{Jn as t,zr as n}from"./index-Cuj0puEw.js";function r(r){let i=e({dir:n(`ltr`)});return t(()=>r?.value||i.dir?.value||`ltr`)}export{r as t};
