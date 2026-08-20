@@ -1,0 +1,1 @@
+import{Lr as e,Pr as t,Sr as n,_r as r,di as i,in as a,ui as o}from"./index-DKfv07ds.js";var s=n({__name:`CardContent`,props:{class:{}},setup(n){let s=n;return(n,c)=>(t(),r(`div`,{"data-slot":`card-content`,class:i(o(a)(`px-6`,s.class))},[e(n.$slots,`default`)],2))}});export{s as t};
