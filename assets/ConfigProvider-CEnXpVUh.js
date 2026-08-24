@@ -1,0 +1,1 @@
+import{Wn as e}from"./index-DHn8F0Zb.js";var[t,n]=e(`ConfigProvider`);export{t};
