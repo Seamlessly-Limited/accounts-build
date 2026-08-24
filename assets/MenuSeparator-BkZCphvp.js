@@ -1,0 +1,1 @@
+import{Lr as e,Pr as t,Sr as n,Yr as r,gn as i,hr as a,kr as o,ui as s}from"./index-DZPZKES2.js";var c=n({__name:`MenuSeparator`,props:{asChild:{type:Boolean,required:!1},as:{type:null,required:!1}},setup(n){let c=n;return(n,l)=>(t(),a(s(i),o(c,{role:`separator`,"aria-orientation":`horizontal`}),{default:r(()=>[e(n.$slots,`default`)]),_:3},16))}});export{c as t};

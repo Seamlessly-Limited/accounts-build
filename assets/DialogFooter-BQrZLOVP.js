@@ -1,0 +1,1 @@
+import{Lr as e,Pr as t,Sr as n,_r as r,di as i,in as a,ui as o}from"./index-DZPZKES2.js";var s=n({__name:`DialogFooter`,props:{class:{}},setup(n){let s=n;return(n,c)=>(t(),r(`div`,{class:i(o(a)(`flex flex-col-reverse sm:flex-row sm:justify-end sm:gap-x-2`,s.class))},[e(n.$slots,`default`)],2))}});export{s as t};

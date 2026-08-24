@@ -1,1 +1,0 @@
-import{Wn as e}from"./index-DKfv07ds.js";var[t,n]=e(`ConfigProvider`);export{t};
