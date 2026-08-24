@@ -1,1 +1,0 @@
-import{Wn as e}from"./index-DZPZKES2.js";var[t,n]=e(`ConfigProvider`);export{t};

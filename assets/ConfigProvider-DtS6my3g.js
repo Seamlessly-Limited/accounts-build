@@ -1,0 +1,1 @@
+import{Wn as e}from"./index-DMdWgbl7.js";var[t,n]=e(`ConfigProvider`);export{t};
